@@ -32,6 +32,7 @@ morgan.token("body", (request) => {
 });
 
 app.use(express.json());
+app.use(express.static("dist"));
 app.use(morgan(":method :url :status :res[content-length] - :response-time ms :body")); // Logs HTTP requests with custom body token
 app.use(cors());
 
