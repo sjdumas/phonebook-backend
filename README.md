@@ -2,6 +2,8 @@
 
 This is the phonebook backend exercise for [Part3](http://fullstackopen.com/en/part3) for the University of Helsinki [Full Stack Open](https://fullstackopen.com/en/) course.
 
+The live link of the project is here: [Phonebook Backend](https://phonebook-backend-r69q.onrender.com/)
+
 ## Get Started
 
 1. Clone the repository:
